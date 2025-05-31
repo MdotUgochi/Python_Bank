@@ -4,3 +4,5 @@ def withdrawal():
 def deposit():
     print("deposit")
 
+def commission():
+    print("commission")
